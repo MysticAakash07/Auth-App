@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auth App</string>
+    <string name="welcome_to_auth_app">Welcome to Auth App</string>
+    <string name="please_register_yourself_to_continue">Please register yourself to continue</string>
+    <string name="todo">TODO</string>
+    <string name="user_display_picture" />
+    <string name="loading">loading</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="dob">dob</string>
+    <string name="gender">gender</string>
+    <string name="mobile">mobile</string>
+    <string name="registered_user_since">registered user since</string>
+</resources>
