@@ -1,7 +1,8 @@
 # Authentication App
 
 This Android application serves as an authentication app, allowing users to sign up, log in, and perform secure authentication operations. The app is built using Android Studio, and Firebase is utilized as the backend service for user authentication.
-
+## Download App 
+[Download and install](https://drive.google.com/file/d/1CTwkNZFa-xGtpHYOV_nneOSVRXyYJPc8/view?usp=sharing)
 ## Features
 
 - **User Registration:** Users can create a new account by providing necessary details.
